@@ -1,0 +1,22 @@
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\bin\Debug\Trabajo Final 2.0.exe.config
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\bin\Debug\Trabajo Final 2.0.exe
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\bin\Debug\Trabajo Final 2.0.pdb
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo_Final_2._0.Form1.resources
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo_Final_2._0.Properties.Resources.resources
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.csproj.GenerateResource.cache
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.exe
+C:\Users\guido\OneDrive\Desktop\Boss Final\Trabajo Final 2.0\obj\Debug\Trabajo Final 2.0.pdb
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\bin\Debug\Trabajo Final 2.0.exe.config
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\bin\Debug\Trabajo Final 2.0.exe
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\bin\Debug\Trabajo Final 2.0.pdb
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.csproj.AssemblyReference.cache
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo_Final_2._0.Form1.resources
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo_Final_2._0.Properties.Resources.resources
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.csproj.GenerateResource.cache
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.csproj.CoreCompileInputs.cache
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.exe
+C:\Users\guido\Desktop\Trabajo-Final-2.0-main\obj\Debug\Trabajo Final 2.0.pdb
